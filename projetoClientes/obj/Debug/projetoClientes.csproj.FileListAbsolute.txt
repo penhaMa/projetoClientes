@@ -1,0 +1,8 @@
+C:\Users\penha\source\repos\projetoClientes\projetoClientes\bin\Debug\projetoClientes.exe.config
+C:\Users\penha\source\repos\projetoClientes\projetoClientes\bin\Debug\projetoClientes.exe
+C:\Users\penha\source\repos\projetoClientes\projetoClientes\bin\Debug\projetoClientes.pdb
+C:\Users\penha\source\repos\projetoClientes\projetoClientes\obj\Debug\projetoClientes.csproj.AssemblyReference.cache
+C:\Users\penha\source\repos\projetoClientes\projetoClientes\obj\Debug\projetoClientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\penha\source\repos\projetoClientes\projetoClientes\obj\Debug\projetoClientes.csproj.CoreCompileInputs.cache
+C:\Users\penha\source\repos\projetoClientes\projetoClientes\obj\Debug\projetoClientes.exe
+C:\Users\penha\source\repos\projetoClientes\projetoClientes\obj\Debug\projetoClientes.pdb
